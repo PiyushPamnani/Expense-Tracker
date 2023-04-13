@@ -1,8 +1,10 @@
+![alt text](./src/assets/preview.png)
+
 ### EXPENSE TRACKER
 
 This project is build using HTML, CSS, JavaScript and ReactJS.
 
-Main styling is done using Material-UI and sorry but this is not responsive in tablets right now....
+Styling is done using Material-UI.
 
 ### SPEECHLY
 

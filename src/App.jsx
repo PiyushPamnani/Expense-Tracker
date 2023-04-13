@@ -13,7 +13,7 @@ const App = () => {
   return (
     <div>
       <Grid
-        className={classes.grid}
+        className={`${classes.grid} ${classes.tablet}`}
         container
         spacing={0}
         alignItems="center"
@@ -23,13 +23,30 @@ const App = () => {
         <Grid item lg={3} xs={12} sm={4} className={classes.mobile}>
           <Details title="Income" />
         </Grid>
-        <Grid item xs={12} sm={3} className={classes.main}>
+        <Grid
+          item
+          xs={12}
+          sm={3}
+          className={`${classes.main} ${classes.tablets}`}
+        >
           <Main />
         </Grid>
-        <Grid item lg={3} xs={12} sm={4} className={classes.desktop}>
+        <Grid
+          item
+          lg={3}
+          xs={12}
+          sm={4}
+          className={`${classes.desktop} ${classes.tablets}`}
+        >
           <Details title="Income" />
         </Grid>
-        <Grid item lg={3} xs={12} sm={4} className={classes.last}>
+        <Grid
+          item
+          lg={3}
+          xs={12}
+          sm={4}
+          className={`${classes.last} ${classes.tablets}`}
+        >
           <Details title="Expense" />
         </Grid>
       </Grid>
