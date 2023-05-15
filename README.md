@@ -1,4 +1,4 @@
-![alt text](./src/assets/preview.png)
+![Expense-Tracker](https://ibb.co/SfqLWH6)
 
 ### EXPENSE TRACKER
 
