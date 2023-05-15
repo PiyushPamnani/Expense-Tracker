@@ -1,4 +1,4 @@
-![Expense-Tracker](https://ibb.co/SfqLWH6)
+![Expense-Tracker](https://i.ibb.co/Cbnz5F8/preview.png)
 
 ### EXPENSE TRACKER
 
